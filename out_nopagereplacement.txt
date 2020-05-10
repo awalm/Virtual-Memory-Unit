@@ -1,0 +1,9 @@
+Parameters:
+Pagetable size: 256
+ If you would like to change the pagetable size, please view the readme.txt file
+Statistics:
+Page Faults = 244
+TLB Hits = 54
+Page Fault Percentage = 24.40%
+TLB Hit Percentage = 5.40%
+Number of addresses processed: 1000
