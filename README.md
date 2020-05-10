@@ -1,4 +1,5 @@
 # Virtual Memory Unit (MMU)
+This is a C program that translates logical addresses to physical addresses.  It resolves page faults using demand paging and manages a TLB. This program was written for my Operating Systems course.
 
 # Usage
 There are two ways of using the program.
